@@ -1,3 +1,5 @@
+nome: ludmila elita
+turma if23
 #include <iostream>
 #include <cstring>
 #include <string>
