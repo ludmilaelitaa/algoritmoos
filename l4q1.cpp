@@ -1,4 +1,6 @@
-/*nome: ludmilaelita turma if23*/
+/*nome: ludmila elita 
+turma if23
+q: Faça um programa que leia uma string e a imprima na tela.*/
 #include <iostream>
 #include <cstring>
 using namespace std;
