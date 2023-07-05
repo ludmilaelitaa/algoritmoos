@@ -23,3 +23,5 @@ int main() {
 
     cout << v ;
 }
+/* o que é NULL? é um ponteiro que aponta pro zero
+o que é strstr? ele é usado para encontrar uma substring*/
