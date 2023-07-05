@@ -11,4 +11,4 @@ int main() {
         r += q4[i];
     }
   cout << r;
-}
+}/* o que é ".size()" ? ele mostra a quantidade de caracteres que estão dentro da string*/
