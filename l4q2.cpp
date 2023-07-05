@@ -1,5 +1,6 @@
-nome: ludmila elita
+/*nome: ludmila elita
 turma if23
+q: Faça um programa que leia uma string e imprima as quatro primeiras letras dela.*/
 #include <iostream>
 #include <cstring>
 #include <string>
