@@ -1,5 +1,8 @@
-nome: ludmila elita
+/*nome: ludmila elita
 turma if23
+q: Sem usar a função strlen(), faça um programa que leia e imprima quantos caracteres ela
+possui.
+*/
 #include <iostream>
 #include <string>
 #include <cstring>
