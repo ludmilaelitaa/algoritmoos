@@ -8,4 +8,4 @@ int main() {
   string nome;
   getline(cin, nome);
   cout << nome;
-}
+}/*o que é getline? ele lê os caracteres*/
