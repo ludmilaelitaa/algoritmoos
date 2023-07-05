@@ -12,4 +12,4 @@ int main() {
   for(i=0;i<4;i++){
     cout << q2[i];
   }
-}
+}/* o que é fgets? ele lê os caracteres*/
