@@ -23,3 +23,4 @@ int main(){
     }
 
 }
+/* o que é char* ? é um ponteiro para um caractere (uma string)*/
