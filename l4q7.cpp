@@ -1,4 +1,8 @@
-/*nome: ludmila elita turma if23*/
+/*nome: ludmila elita 
+turma if23
+q: Faça um programa que leia uma string e imprima uma mensagem dizendo se ela é um
+palíndromo ou não. Exemplos de palíndromos: ovo, arara, rever, asa, osso etc.
+*/
 #include <iostream>
 #include <string>
 using namespace std;
