@@ -1,4 +1,6 @@
-/*nome: ludmila elita turma if23*/
+/*nome: ludmila elita 
+turma if23
+q: . Faça um programa que leia uma string e a imprima de trás para a frente.*/
 #include <iostream>
 using namespace std;
 int main() {
